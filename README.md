@@ -7,7 +7,8 @@
 Сбор данных https://docs.google.com/document/d/1ubPII9KcPS7T43OUjGK9gGgkQ7f2-O9R2gpBTZIgHls/edit?usp=sharing
 Расчет https://docs.google.com/spreadsheets/d/1bYlB2KsfFpecjaeuAk8W2kcpkzIQb1RYEAFeTOyXTdQ/edit?usp=sharing
 2. Проведение юзабилити-тестирования с использованием шкалы "System Usability Scale". Написание отчета по результатам тестирования. 
-
+Форма https://forms.gle/ptrx1dWBNtBG1q1i6
+Результаты опроса https://docs.google.com/spreadsheets/d/1ShqTyGqqDooEfvOw-sZ6yVMlRdbJ32oMC8XEiU4v0e4/edit?usp=sharing
 3. Создание набора модульных (unit) тестов с использованием языка высокого уровня для предложенного преподавателем программного продукта и оформление по результатам тестирования отчета в репозитории с использованием разметки Markdown.
 
 4.  Анализ работы программного продукта (веб-приложения) и создание схемы с последовательностью операций выполняемых ПО на предмет рефакторинга кода и реинжиниринга самого приложения и оформление по результатам отчета в репозитории с использованием разметки Markdown.
